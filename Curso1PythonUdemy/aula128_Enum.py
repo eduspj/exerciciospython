@@ -17,5 +17,7 @@ def move(direction):
 if __name__ == '__main__':
     print(move(Directions.right))
     print(move(Directions.left))
+    print(move(Directions.right))
+    print(move(Directions.left))
     # print(move('up'))
     # print(move('down'))
