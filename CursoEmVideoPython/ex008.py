@@ -1,0 +1,8 @@
+v = float(input('Digite a distância em metros: '))
+print(f'A medida de {v}m corresponde a:')
+print(f'{v / 1000}km')
+print(f'{v / 100}hm')
+print(f'{v / 10}dam')
+print(f'{v * 10}dm')
+print(f'{v * 100}cm')
+print(f'{v * 1000}mm')
