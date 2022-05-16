@@ -19,4 +19,3 @@ print(f'O menor valor digitado foi {menor} e aparece nas posições: ', end=" ")
 for i, j in enumerate(lista):
     if j == menor:
         print(i, end=' ')
-

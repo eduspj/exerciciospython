@@ -6,3 +6,4 @@ for i in palavras:
         if i[j] in 'aeiouAEIOU':
             print(i[j], end=' ')
     print()
+print(len(palavras))
